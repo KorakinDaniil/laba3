@@ -1,4 +1,4 @@
-#include "head.h"
+#include "head_Task1_DeepSeek.h"
 
 int main()
 {
